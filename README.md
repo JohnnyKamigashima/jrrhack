@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrrhack // Johnny H. Kamigashima Brazilian Artwork/Design/Photography professional migrating to iT because it fits me better
-- 👀 I’m interested in Automating tasks coding useful stuff
-- 🌱 I’m currently learning Python, JS, Html, CSS, Capybara, Ruby, PHP
+- 👀 I’m interested in Automating tasks coding useful stuff (I love automating my own tasks always when possible and if the job is all aobut Automation, I´m up for it)
+- 🌱 I’m currently learning  Capybara, Ruby, PHP, Python, JS, Html, CSS
 - 💞️ I’m looking to collaborate on fun stuff and jobs
 
 <!---
